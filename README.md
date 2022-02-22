@@ -14,4 +14,4 @@
 - <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/Zaman-serisi-analizi.git</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">cd Zaman-serisi-analizi</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">pip install -r requirements.txt</code></pre>
-- <pre class="terminal"><code class="terminal-line" prefix="$">py Zaman-serisi-analizi.py</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">py zaman-serisi-analizi.py</code></pre>
