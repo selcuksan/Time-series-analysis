@@ -4,7 +4,7 @@
 * Zaman serisi analizi zamansal ölçümlerin yapıldığı her alanda (istatistik, ekonometri, finans, sinyal işleme, hava ve deprem tahmini) kullanılmaktadır. 
 
 
-# Prophet Nedir
+## Prophet Nedir
 
 * Prophet, lineer olmayan eğilimlerin yıllık, haftalık ve günlük değişimlerine uygun olduğu bir katma modele dayanarak zaman serileri verilerini tahmin etmek için kullanılan bir kütüphanedir.
 * Prophete veri girişi her zaman 2 sütun içeren veri çerçevesidir. ds tarihi, y de sayısal olarak tahmin etmek istediğiniz değeri temsil etmelidir. 
