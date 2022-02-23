@@ -18,6 +18,6 @@
 # Kurulum & Çalıştırma
 
 - <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/Time-series-analysis.git</code></pre>
-- <pre class="terminal"><code class="terminal-line" prefix="$">cd Zaman-serisi-analizi</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">cd Time-series-analysis</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">pip install -r requirements.txt</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">py zaman-serisi-analizi.py</code></pre>
